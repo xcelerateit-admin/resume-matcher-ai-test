@@ -156,8 +156,12 @@ Python, NLP, Scikit-learn, Transformers
   * Input/output example
   * (Optional) Link to deployed demo
 
- Submit your repo link via the following form:
-**[Google Form →](https://forms.gle/your-form-link-here)**
+ 
+* Submit your GitHub repo link to the following email ID:  
+    **support@xcelerateit.ai**
+* Use the subject line:  
+   `[Role] - [Your Full Name] - GitHub Submission`  
+   Example: `AI/ML Developer - Anjali Mehta - GitHub Submission`   
 
 ---
 
